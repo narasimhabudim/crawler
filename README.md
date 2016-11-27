@@ -12,5 +12,9 @@ steps without  async
 
 Note : Input seperated by website and limit of requests at a time 
 
+Result set :
+info.csv
+error.log
+
 
 
