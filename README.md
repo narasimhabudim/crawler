@@ -10,8 +10,8 @@ steps without  async
    
 
 
-Note : Input seperated by website and limit of requests at a time 
-
+Note : Input seperated by website and limit of requests at a time  
+         input website formate : https://www.<req domain>
 Result set :
 info.csv
 error.log
